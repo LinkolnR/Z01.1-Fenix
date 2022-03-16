@@ -17,5 +17,7 @@ end entity;
 architecture arch of Or8Way is
 begin
 
+	
+
 
 end architecture;
